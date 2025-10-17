@@ -1,4 +1,4 @@
-### study-of-basic-gates
+<img width="696" height="402" alt="image" src="https://github.com/user-attachments/assets/b8feca07-ee37-44af-a557-796bfe7fcf5f" />### study-of-basic-gates
 
 **AIM:** 
 
@@ -63,17 +63,29 @@ Y= A⊕B
 
 
 **PROGRAM**
+ assign and_out  = a & b;   // AND gate
+ assign or_out   = a | b;   // OR gate
+ assign not_out  = ~a;      
+// NOT gate (unary)
+assign nand_out = ~(a & b);// NAND gate
+ assign nor_out  = ~(a | b);// NOR gate
+ assign xor_out  = a ^ b;   // XOR gate
+ assign xnor_out = ~(a ^ b);// XNOR gate
 
+endmodule**
+ 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by:GOPIKA.G RegisterNumber: 25015795
  
 **Logic symbol & Truthtable**
-
 **RTL realization Output:** 
+<img width="696" height="402" alt="image" src="https://github.com/user-attachments/assets/17058da1-af47-44e4-b280-f09c52abf63f" />
 
 **RTL**
+<img width="788" height="331" alt="image" src="https://github.com/user-attachments/assets/76cfe92f-ca73-4bd7-bcc2-794e9b51602f" />
+
 
 **Result:**
 
-
+Thus the basic logic gates are studied and the truth tables are verified
