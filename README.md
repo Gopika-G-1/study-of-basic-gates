@@ -1,4 +1,4 @@
-<img width="696" height="402" alt="image" src="https://github.com/user-attachments/assets/b8feca07-ee37-44af-a557-796bfe7fcf5f" />### study-of-basic-gates
+
 
 **AIM:** 
 
